@@ -3,6 +3,12 @@
 <div style="text-align:center;">
   <image src="https://github.com/JavierAM01/Machine-Learnig-in-Games/blob/main/images/sudoku.gif" style="width:100%; height:12cm;">
 </div>
+
+Uso de la interfaz:
+  
+  1) Hacer click con el ratón en la casilla que quieras modificar. 
+  2) Insertar idea: tocar el número que quieras introducir.
+  3) Insertar número definitivo: hacer click en ```ENTER```. En caso de no ser un número válido, este no se introducirá.
   
 ## Algoritmo
 
