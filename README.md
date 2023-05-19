@@ -4,6 +4,10 @@
   <image src="https://github.com/JavierAM01/Machine-Learnig-in-Games/blob/main/images/sudoku.gif" style="width:100%; height:12cm;">
 </div>
   
+## Algoritmo
+
+El algoritmo de resolución de Sudoku utiliza la recursividad para resolver este desafiante rompecabezas. La idea principal es descomponer el problema en subproblemas más pequeños y resolverlos de forma recursiva. El algoritmo busca una casilla vacía en el tablero y prueba diferentes números del 1 al 9 para colocar en esa casilla, verificando si cumple con las reglas del Sudoku. Si se encuentra una solución válida, se avanza a la siguiente casilla vacía y se repite el proceso. Si no se encuentra una solución válida, se retrocede y se prueba con otro número. Este proceso continúa hasta llenar todas las casillas o hasta encontrar una solución completa. La recursividad permite explorar todas las combinaciones posibles de números de manera eficiente.
+
 ## Explicación
   
 Para la creación del tablero creamos un objecto **Caja** la cual representa cada una de los 9x9 casillas del tablero. En ella guardamos 
